@@ -1,0 +1,7 @@
+{
+  "name": "PAT 2.0 Login Screen",
+  "id": "pat-2-login-screen",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
